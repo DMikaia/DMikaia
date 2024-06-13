@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mikaia</h1>
-<h3 align="center">Developer from Madagascar and a 2nd year CS student</h3>
+<h1 align="left">Hi 👋, I'm Mikaia</h1>
+<h3 align="left">
+Developer from Madagascar and I am mostly passionate about Javascript in both back end and front end development
+</h3>
 
 - 🌱 I’m currently learning **Next, Nest**
 
