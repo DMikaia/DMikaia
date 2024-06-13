@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mikaia</h1>
 <h3 align="left">
-Developer from Madagascar and I am mostly passionate about Javascript in both back and front end development
+A passionate developer from Madagascar
 </h3>
 
 - 🌱 I’m currently learning **Next, Nest**
