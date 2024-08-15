@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mikaia</h1>
 <h3 align="left">
-A passionate developer from Madagascar
+A passionate Malagasy developer
 </h3>
 
 - 🌱 I’m currently learning **Astro**
