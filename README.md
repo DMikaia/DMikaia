@@ -3,7 +3,7 @@
 A passionate developer from Madagascar
 </h3>
 
-- 🌱 I’m currently learning **Next, Nest, Astro**
+- 🌱 I’m currently learning **Astro**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
