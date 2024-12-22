@@ -1,10 +1,6 @@
-# Hi 👋, I'm Mikaia
+# Hi 👋
 
-<h3 align="left">
-A passionate Malagasy developer
-</h3>
-
-- 🌱 I’m currently learning **Astro and Rust**
+My name is **Mikaia** and I'm a IT student with a passion for the world of computers.
 
 # 💻 Tech Stack:
 
